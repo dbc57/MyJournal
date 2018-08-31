@@ -1,0 +1,2 @@
+# MyJournal
+React Native Tutorial
